@@ -1,4 +1,4 @@
-NOT MANTAINED ANYMORE.
+NOT MANTAINED ANYMORE.  
 Telegram changed the palette format so now this program needs a rewrite.
 I don't have the time to work on this project, nor the interest.
 
