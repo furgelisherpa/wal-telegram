@@ -42,7 +42,7 @@ To set the palette follow these steps:
 
 # Updating
 
-You can update telegram-palette-gen by running git pull inside ~/.telegram-palette-gen:
+You can update telegram-palette-gen by running git pull inside /path/to/wal-telegram:
 ```bash
 cd wal-telegram
 git pull
