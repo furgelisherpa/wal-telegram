@@ -12,7 +12,7 @@ Use the --palette (or -p) '/path/to/palette' parameter if you want to generate a
 Use the --help (or -h) to call this help function.
 
 e.g.
-  ./wal-telegram--wal
+  ./wal-telegram --wal
   ./wal-telegram --palette ~/progetti/themes/sh/material-default.sh
 EOF
 }
